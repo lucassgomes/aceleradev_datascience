@@ -18,5 +18,5 @@ def main():
     pts_credit.to_json('submission.json', orient='index')
 
 
-if __name__ == '__main__':
+if __name__ == '__init__':
     main()
