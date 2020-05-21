@@ -2,4 +2,10 @@ data-science-2/__pycache__/*
 data-science-2/main.py
 data-science-2/output.xml
 data-science-2/stdout.txt
+data-science-3/.vscode/*
+data-science-3/__pycache__/*
+data-science-3/main.py
+data-science-3/output.xml
+data-science-3/stdout.txt
+data-science-4/.DS_Store
 
